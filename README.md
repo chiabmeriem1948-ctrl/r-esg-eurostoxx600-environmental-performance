@@ -43,5 +43,5 @@ Script : `partie-2-acp/script_part2_acp.R`
 
 ---
 
-## 🛠️ Outils
+##  Outils
 - R (dataviz, régression, ACP)
